@@ -1,5 +1,5 @@
 {
-	"name": "xlsx-style",
+	"name": "xlsx-style-alt",
 	"version": "0.8.8",
 	"author": "sheetjs",
 	"description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
@@ -23,7 +23,7 @@
 		"xlsjs":"",
 		"uglify-js":""
 	},
-	"repository": { "type":"git", "url":"git://github.com/protobi/js-xlsx.git#beta" },
+	"repository": { "type":"git", "url":"git://github.com/mrauhu/js-xlsx.git#alt" },
 	"scripts": {
 		"pretest": "git submodule init && git submodule update",
 		"test": "make test"
